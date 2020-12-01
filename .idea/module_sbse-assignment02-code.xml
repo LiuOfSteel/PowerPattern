@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_sbse-assignment02-code" default="compile.module.sbse-assignment02-code">
+  <dirname property="module.sbse-assignment02-code.basedir" file="${ant.file.module_sbse-assignment02-code}"/>
+  
+  <property name="module.jdk.home.sbse-assignment02-code" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.sbse-assignment02-code" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.sbse-assignment02-code" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.sbse-assignment02-code" value="-encoding UTF-8 -source 9 -target 9 ${compiler.args}"/>
+  
+  <property name="sbse-assignment02-code.output.dir" value="undefined"/>
+  <property name="sbse-assignment02-code.testoutput.dir" value="undefined"/>
+  
+  <path id="sbse-assignment02-code.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="sbse-assignment02-code.module.production.classpath">
+    <path refid="${module.jdk.classpath.sbse-assignment02-code}"/>
+  </path>
+  
+  <path id="sbse-assignment02-code.runtime.production.module.classpath"/>
+  
+  <path id="sbse-assignment02-code.module.classpath">
+    <path refid="${module.jdk.classpath.sbse-assignment02-code}"/>
+  </path>
+  
+  <path id="sbse-assignment02-code.runtime.module.classpath"/>
+  
+  
+  <patternset id="excluded.from.module.sbse-assignment02-code">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.sbse-assignment02-code">
+    <patternset refid="excluded.from.module.sbse-assignment02-code"/>
+  </patternset>
+  
+  
+  <target name="compile.module.sbse-assignment02-code" depends="compile.module.sbse-assignment02-code.production,compile.module.sbse-assignment02-code.tests" description="Compile module sbse-assignment02-code"/>
+  
+  <target name="compile.module.sbse-assignment02-code.production" depends="register.custom.compilers" description="Compile module sbse-assignment02-code; production classes"/>
+  
+  <target name="compile.module.sbse-assignment02-code.tests" depends="register.custom.compilers,compile.module.sbse-assignment02-code.production" description="compile module sbse-assignment02-code; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.sbse-assignment02-code" description="cleanup module">
+    <delete dir="${sbse-assignment02-code.output.dir}"/>
+    <delete dir="${sbse-assignment02-code.testoutput.dir}"/>
+  </target>
+</project>

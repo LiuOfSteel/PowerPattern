@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d61eab-e010-42f0-b929-bf0bb54da176" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-816261532">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sbse-as02-cust" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/Writer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2090">
+              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40869">
+              <caret line="2228" column="53" selection-start-line="2228" selection-start-column="53" selection-end-line="2228" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/fitness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/newAppColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3933">
+              <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GuiOptimiser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="e#0#23160#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/BufferedWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4370">
+              <caret line="255" column="5" selection-start-line="255" selection-start-column="5" selection-end-line="255" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>args</find>
+      <find>jTextField1</find>
+      <find>changecolor</find>
+      <find>color.</find>
+      <find>guiComponents</find>
+      <find>runa</find>
+      <find>k</find>
+      <find>appColor</find>
+      <find>appcolor</find>
+      <find>scr</find>
+      <find>capture</find>
+      <find>EA</find>
+      <find>temp</find>
+      <find>save</find>
+      <find>parentDir</find>
+      <find>saveto</find>
+      <find>be</find>
+      <find>276.09183</find>
+      <find>path</find>
+      <find>step)</find>
+      <find>,step,</find>
+      <find>bes</find>
+      <find>system.out</find>
+      <find>system</find>
+      <find>best</find>
+      <find>current best</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/CalculatorMainFrame.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/Selection.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/EA.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/EA.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/test.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/AppColor.java" />
+        <option value="$PROJECT_DIR$/color.csv" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/fitness.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/climbMountain.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/newAppColor.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GuiOptimiser.java" />
+        <option value="$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GA.java" />
+        <option value="$PROJECT_DIR$/bestSolution.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiOptimiser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiOptimiser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiOptimiser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="guioptimiser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbse-as02-cust" type="462c0819:PsiDirectoryNode" />
+              <item name="sbseAssignment2" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiOptimiser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="guioptimiser" type="462c0819:PsiDirectoryNode" />
+              <item name="GA.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="sbse-as02-cust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newAss2cust" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sbse-assignment02-code" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\84464\Desktop\sbse\sbse-as02-cust\sbseAssignment2\GuiOptimiser" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guioptimiser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\84464\Desktop\sbse\sbse-as02-cust\sbseAssignment2\GuiOptimiser" />
+      <recent name="C:\Users\84464\Desktop\sbse\sbse-as02-cust" />
+      <recent name="C:\Users\84464\Desktop\sbse\sbse-as02-cust\sbseAssignment2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GuiOptimiser">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorMainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator.CalculatorMainFrame" />
+      <module name="sbse-assignment02-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guioptimiser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guioptimiser.EA" />
+      <module name="sbse-assignment02-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guioptimiser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuiOptimiser" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guioptimiser.GuiOptimiser" />
+      <module name="sbse-assignment02-code" />
+      <option name="PROGRAM_PARAMETERS" value="calculator.jar" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guioptimiser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fiteness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guioptimiser.fiteness" />
+      <module name="sbse-assignment02-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guioptimiser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fitness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guioptimiser.fitness" />
+      <module name="sbse-assignment02-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guioptimiser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GuiOptimiser" />
+      <item itemvalue="Application.CalculatorMainFrame" />
+      <item itemvalue="Application.EA" />
+      <item itemvalue="Application.fiteness" />
+      <item itemvalue="Application.fitness" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.fitness" />
+        <item itemvalue="Application.fiteness" />
+        <item itemvalue="Application.EA" />
+        <item itemvalue="Application.CalculatorMainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d61eab-e010-42f0-b929-bf0bb54da176" name="Default" comment="" />
+      <created>1537188733756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537188733756</updated>
+      <workItem from="1537188864518" duration="163000" />
+      <workItem from="1537189062796" duration="160000" />
+      <workItem from="1537243298691" duration="946000" />
+      <workItem from="1537244317348" duration="2158000" />
+      <workItem from="1537246640102" duration="7025000" />
+      <workItem from="1537254796491" duration="19842000" />
+      <workItem from="1537332655659" duration="36640000" />
+      <workItem from="1537414778820" duration="4489000" />
+      <workItem from="1537419912302" duration="18047000" />
+      <workItem from="1537494950833" duration="15022000" />
+      <workItem from="1537600191382" duration="3713000" />
+      <workItem from="1537683712775" duration="1832000" />
+      <workItem from="1537763084019" duration="2330000" />
+      <workItem from="1537774672887" duration="17000" />
+      <workItem from="1538301406758" duration="2454000" />
+      <workItem from="1538461746829" duration="46000" />
+      <workItem from="1538896657589" duration="1243000" />
+      <workItem from="1538961907104" duration="804000" />
+      <workItem from="1539593175342" duration="1090000" />
+      <workItem from="1539666910660" duration="683000" />
+      <workItem from="1540106463945" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118903000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Captures" order="5" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48931623" weight="0.2608213" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6936572" weight="0.22401172" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49786323" weight="0.39955604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49786323" weight="0.32963374" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.30634278" side_tool="true" visible="true" weight="0.22401172" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49786323" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4652778" weight="0.32963374" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53728">
+          <caret line="2464" column="44" selection-start-line="2464" selection-start-column="44" selection-end-line="2464" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/SimpleMainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/CalculatorMainFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/javax/swing/GroupLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4439">
+          <caret line="226" column="28" selection-start-line="226" selection-start-column="28" selection-end-line="226" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/SimpleMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="613" column="22" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="367" column="11" selection-start-line="367" selection-start-column="11" selection-end-line="367" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/CalculatorMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3220">
+          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image-1537347936884.png" />
+    <entry file="file://$PROJECT_DIR$/image-1537347941276.png" />
+    <entry file="file://$PROJECT_DIR$/image-1537347932394.png" />
+    <entry file="file://$PROJECT_DIR$/image-1537347934681.png" />
+    <entry file="file://$PROJECT_DIR$/image-1537347939078.png" />
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="632" column="16" selection-start-line="632" selection-start-column="16" selection-end-line="632" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="431" column="13" selection-start-line="431" selection-start-column="13" selection-end-line="431" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/climbMountain.java" />
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/Capture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/AppColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="139" column="17" lean-forward="true" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/bestSolution.csv" />
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1032" column="19" selection-start-line="1032" selection-start-column="19" selection-end-line="1032" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/color.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/colorSimp.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70813">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bestSolution.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/color.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/color.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/calculator/src/Calculator/jxl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40869">
+          <caret line="2228" column="53" selection-start-line="2228" selection-start-column="53" selection-end-line="2228" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/fitness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/newAppColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programming/jdk 1.8/src.zip!/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4370">
+          <caret line="255" column="5" selection-start-line="255" selection-start-column="5" selection-end-line="255" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sbseAssignment2/GuiOptimiser/src/guioptimiser/GuiOptimiser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#0#23160#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sbse-assignment02-code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
